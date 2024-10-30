@@ -1,0 +1,249 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.3.11",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "TerraFirmaCraft:Remake",
+  "version": "0.3",
+  "author": "",
+  "files": [
+    {
+      "projectID": 1068445,
+      "fileID": 5815914,
+      "required": true
+    },
+    {
+      "projectID": 1089803,
+      "fileID": 5824585,
+      "required": true
+    },
+    {
+      "projectID": 272515,
+      "fileID": 5454907,
+      "required": true
+    },
+    {
+      "projectID": 231095,
+      "fileID": 5203366,
+      "required": true
+    },
+    {
+      "projectID": 950281,
+      "fileID": 4957708,
+      "required": true
+    },
+    {
+      "projectID": 309927,
+      "fileID": 5843594,
+      "required": true
+    },
+    {
+      "projectID": 511770,
+      "fileID": 5796441,
+      "required": true
+    },
+    {
+      "projectID": 252818,
+      "fileID": 5720618,
+      "required": true
+    },
+    {
+      "projectID": 478155,
+      "fileID": 5536181,
+      "required": true
+    },
+    {
+      "projectID": 362368,
+      "fileID": 5509191,
+      "required": true
+    },
+    {
+      "projectID": 908741,
+      "fileID": 5681725,
+      "required": true
+    },
+    {
+      "projectID": 580555,
+      "fileID": 5793030,
+      "required": true
+    },
+    {
+      "projectID": 844662,
+      "fileID": 5722712,
+      "required": true
+    },
+    {
+      "projectID": 568563,
+      "fileID": 5734409,
+      "required": true
+    },
+    {
+      "projectID": 367706,
+      "fileID": 5823943,
+      "required": true
+    },
+    {
+      "projectID": 453394,
+      "fileID": 5775257,
+      "required": true
+    },
+    {
+      "projectID": 544048,
+      "fileID": 4672356,
+      "required": true
+    },
+    {
+      "projectID": 1118578,
+      "fileID": 5801430,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 5776962,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 5846810,
+      "required": true
+    },
+    {
+      "projectID": 410295,
+      "fileID": 5028413,
+      "required": true
+    },
+    {
+      "projectID": 938643,
+      "fileID": 5109692,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 5338457,
+      "required": true
+    },
+    {
+      "projectID": 433760,
+      "fileID": 5698665,
+      "required": true
+    },
+    {
+      "projectID": 581495,
+      "fileID": 5299671,
+      "required": true
+    },
+    {
+      "projectID": 354339,
+      "fileID": 5368592,
+      "required": true
+    },
+    {
+      "projectID": 306770,
+      "fileID": 4966125,
+      "required": true
+    },
+    {
+      "projectID": 695822,
+      "fileID": 5804953,
+      "required": true
+    },
+    {
+      "projectID": 551736,
+      "fileID": 5807537,
+      "required": true
+    },
+    {
+      "projectID": 558905,
+      "fileID": 5807590,
+      "required": true
+    },
+    {
+      "projectID": 535489,
+      "fileID": 5525256,
+      "required": true
+    },
+    {
+      "projectID": 302973,
+      "fileID": 5571484,
+      "required": true
+    },
+    {
+      "projectID": 940350,
+      "fileID": 5655440,
+      "required": true
+    },
+    {
+      "projectID": 952386,
+      "fileID": 5677386,
+      "required": true
+    },
+    {
+      "projectID": 354353,
+      "fileID": 5849711,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 5773012,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 5658224,
+      "required": true
+    },
+    {
+      "projectID": 636608,
+      "fileID": 5556895,
+      "required": true
+    },
+    {
+      "projectID": 916493,
+      "fileID": 5574685,
+      "required": true
+    },
+    {
+      "projectID": 844019,
+      "fileID": 5797400,
+      "required": true
+    },
+    {
+      "projectID": 416294,
+      "fileID": 5655836,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 5137938,
+      "required": true
+    },
+    {
+      "projectID": 1002070,
+      "fileID": 5535502,
+      "required": true
+    },
+    {
+      "projectID": 238086,
+      "fileID": 5853326,
+      "required": true
+    },
+    {
+      "projectID": 997688,
+      "fileID": 5647417,
+      "required": true
+    },
+    {
+      "projectID": 658587,
+      "fileID": 4587214,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
