@@ -1,4 +1,8 @@
 ServerEvents.recipes(event => {
+    event.remove({output:'sns:pack_frame'})
+     
+})
+ServerEvents.recipes(event => {
     event.recipes.tfc.anvil
     (
         'sns:pack_frame',
