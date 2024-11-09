@@ -21,16 +21,16 @@ StartupEvents.registry("block", (event) => {
             .requiresTool(true);
 
     // 贫瘠
-    aluminumOreBlockBuilder("tfc:ore/poor_aluminum")
-        .model("kubejs:block/ore/poor/aluminum")
+    aluminumOreBlockBuilder("tfc:ore/poor_aluminum/granite")
+        .model("kubejs:block/ore/poor/granite_aluminum")
         .tagBlock("forge:ores/aluminum/poor");
     // 普通
-    aluminumOreBlockBuilder("tfc:ore/normal_aluminum")
-        .model("kubejs:block/ore/normal/aluminum")
+    aluminumOreBlockBuilder("tfc:ore/normal_aluminum/granite")
+        .model("kubejs:block/ore/normal/granite_aluminum")
         .tagBlock("forge:ores/aluminum/normal");
     // 富集
-    aluminumOreBlockBuilder("tfc:ore/rich_aluminum")
-        .model("kubejs:block/ore/rich/aluminum")
+    aluminumOreBlockBuilder("tfc:ore/rich_aluminum/granite")
+        .model("kubejs:block/ore/rich/granite_aluminum")
         .tagBlock("forge:ores/aluminum/rich");
 
     // 贫瘠页岩
