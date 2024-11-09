@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "TerraFirmaCraft:Remake",
+  "name": "TerraFirmaCraft: Remake",
   "version": "0.3",
-  "author": "",
+  "author": "RainLasea",
   "files": [
     {
       "projectID": 1068445,
@@ -137,11 +137,6 @@
     {
       "projectID": 581495,
       "fileID": 5299671,
-      "required": true
-    },
-    {
-      "projectID": 354339,
-      "fileID": 5368592,
       "required": true
     },
     {
@@ -277,6 +272,11 @@
     {
       "projectID": 1026508,
       "fileID": 5664670,
+      "required": true
+    },
+    {
+      "projectID": 585406,
+      "fileID": 5227399,
       "required": true
     }
   ],
